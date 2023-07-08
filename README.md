@@ -40,7 +40,7 @@ at the end of workflow, i would like to be able to review all the data above and
 i am just beginning this project. i have outlined goals and what i would like to achieve. i am starting to write basic code to outline the above elements
 
 ## where i am stuck:
-no hiccups yet -- just getting started
+need to finish my tutorial on databases :'(
 
 ## help
 if you want to help, any would be appreciated! feel free to pull request/email me at tsludee@gmail.com
