@@ -1,4 +1,4 @@
-# kanban_board_tsludee
+# kanban_board
  this is a Kanban board written in Python using Tkinter for its GUI
 
 ## goal
