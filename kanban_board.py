@@ -32,14 +32,14 @@ conn = sqlite3.connect('workflow.db')
 #create cursor
 c= conn.cursor()
 #create table
-c.execute(""" CREATE TABLE workflow (
-          to_do text,
-          in_progress text,
-          help text,
-          review text,
-          questions text,
-          complete text
-          )""")
+# c.execute(""" CREATE TABLE workflow (
+#           to_do text,
+#           in_progress text,
+#           help text,
+#           review text,
+#           questions text,
+#           complete text
+#           )""")
 #commit changes
 conn.commit()
 #close connection
